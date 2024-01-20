@@ -1,0 +1,3 @@
+D:/ClionProjects/23.12.27/BFS/cmake-build-debug/CMakeFiles/BFS.dir
+D:/ClionProjects/23.12.27/BFS/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ClionProjects/23.12.27/BFS/cmake-build-debug/CMakeFiles/rebuild_cache.dir

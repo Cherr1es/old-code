@@ -1,0 +1,3 @@
+D:/ClionProjects/23.1.5/Kruskal/cmake-build-debug/CMakeFiles/Kruskal.dir
+D:/ClionProjects/23.1.5/Kruskal/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ClionProjects/23.1.5/Kruskal/cmake-build-debug/CMakeFiles/rebuild_cache.dir
